@@ -7,4 +7,5 @@ tasks
 
 ## Results
 ![fares_by_city_type](analysis/total_fares_by_city_type.png)
+![summary_data](analysis/summary_df.jpg)
 
