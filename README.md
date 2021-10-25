@@ -21,4 +21,4 @@ The fares in Urban cities has more peaks and valleys, this could be due to diffe
 
 
 ## Summary
-The Analysis shows that PyBer Drivers in urban cities get paid far less than drivers in rual and suburban cities. This is due to the fact that there are more drivers, and the rides within the city are shorter therefore cost less. If the drivers in the city had higher rates or the drivers in the rural cities had slightly higher rates this would help even out the value each driver is geting paid for their work.
+The Analysis shows that PyBer Drivers in urban cities get more rides but get paid far less than drivers in rual and suburban cities. This is due to the fact that there are more drivers, and the rides within the city are shorter therefore cost less. If the drivers in the city had higher rates or the drivers in the rural cities had slightly lower rates this would help even out the value each driver is geting paid for their work.
